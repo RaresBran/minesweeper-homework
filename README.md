@@ -1,4 +1,4 @@
-# Homework (HTML, CSS JS)
+# Homework (HTML, CSS, JS)
 
 Generate a board for the popular Minesweeper Game. Create a set of functions accordingly.
 
